@@ -20,7 +20,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #e50000;
+    background-color: #ff0000;
     font-family: colaborate light;
 }
 
@@ -40,7 +40,7 @@ li a {
 }
 
 li a:hover {
-    background-color: #b20000;
+    background-color: #dd0000;
 }
 
 p {
