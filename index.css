@@ -54,7 +54,7 @@ ul {
     margin: auto;
     padding: 0;
     overflow: hidden;
-    background-color: gray;
+    background-color: white;
     position: relative;
 }
 
@@ -65,19 +65,19 @@ li {
 
 li a {
     display: inline-block;
-    color: white;
+    color: black;
+    font: Raleway;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
 }
 
 li a:hover:not(.active) {
-    background-color: darkgray;
+    color: #d0d0d0;
 }
 
-
 .active {
-  background-color: #717171;
+    background-color: #4CAF50;
 }
 
 /* Fading animation */
