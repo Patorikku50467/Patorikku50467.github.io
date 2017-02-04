@@ -1,0 +1,189 @@
+<html>
+
+<head>
+	<script src = ""></script>
+	<link rel="stylesheet" type="text/css" href="worldwarsite.css">
+
+</head>
+
+<center>
+
+
+
+<body>
+
+
+	<div id = "fade">
+
+	<h1 class = "h11">
+		The Den Haag World War II Tour
+	</h1>
+
+
+	<p style = "font-size: 30;">
+	Welcome to this simple yet interactive website <br> in which you will be toured around the World War II memorials of Den Haag.
+		</p>
+
+	</div>
+
+
+
+<div class="bg-stretch">
+
+<div class="slideshow-container">
+
+	<br>
+	<br>
+
+
+
+
+<h1>
+	The Memorials
+</h1>
+
+
+<br>
+<br>
+
+<style>
+.parallax2 {
+
+    background-image: url("2017-02-04.png");
+
+    min-height: 600px; 
+
+    background-attachment: fixed;
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: cover;
+	    margin-left: 0px;
+}
+
+    
+    
+</style>
+
+
+<div class="parallax2"></div>
+
+<div style="height:1000px;background-color:white;font-size:36px">
+
+<h3>
+	Sportpark Ockenburgh
+</h3>
+
+<video width="620" height="540" controls>
+  <source src="-Sportpark Ockenburgh Airfield.mp4" type="video/mp4">
+  <source src="-Sportpark Ockenburgh Airfield.ogg" type="video/ogg">
+Your browser does not support the video tag.
+</video>
+
+<p class = "p2">
+Our first destination is not far away.
+<br>
+We bike down the long road of Wijndaelerweg until we find an opening.
+The opening to the right has a gate which hides 8 grass fields belonging to a popular and surprisingly international football club.
+The place is Sportpark Ockenburgh.
+<br>
+<br>
+Now owned by a club, the ground hosts thousands of football loving children every day.
+But, what not many people know is that just under 80 years ago, Ockenburgh was a military airfield.
+<br>
+It was used during the second world war, and it is mostly recognized by historians as the place in which the Battle of Ockenburgh occurred.
+Many died in this battle and, as tribute, their names lie carved into the wall of the entrance gate.
+<br>
+<br>
+78 casualties were recorded in the battle which was fought between the Netherlands and Germany.
+The dutch trying protect their Queen from the Germans, who flew in to the land through this field.
+<br>
+Their plan was to land in Ockenburgh, and then follow in a straight line through the laan van medevoort and into the queen's palace, in a hunt for dutch land seizure.
+Our next destination will tell you a bit more about this terrifying battle.
+.</p>
+
+<br>
+
+<a href="https://www.google.nl/maps/place/Sporthal+Ockenburgh/@52.0596397,4.2190527,17z/data=!4m8!1m2!2m1!1ssportpark+ockenburg!3m4!1s0x47c5b1bc90b600a1:0xa9ef29acd265c04b!8m2!3d52.0612716!4d4.2212201" target = "_blank" class="button">Ockenburgh From Your Location</a>
+<br>
+
+
+<style>
+.parallax3 {
+
+    background-image: url("16 Monument Waalsdorpervlakte.jpg");
+
+    min-height: 600px; 
+
+    background-attachment: fixed;
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: cover;
+	    margin-left: 0px;
+}
+
+    
+    
+</style>
+
+
+<div class="parallax3"></div>
+
+<div style="height:1200px;background-color:white;font-size:36px">
+
+<h3>
+       School Memorial
+</h3>       
+
+<p class = "p2">
+Our second destination lies close to our first, and it commemorates the same event.
+We head towards the international school of the hague: one of the most prestigious schools of the country, with over 1000 students attending it daily.
+<br>
+<br>
+The school lies in Wijndaelerduin, and in the year 2012, it placed a commemorative monument in its entrance.
+The sculpture reads “in the service of peace and freedom” and it has two soldiers carved into it.
+<br>
+<br>
+As mentioned earlier, this sculpture commemorates the battle of ockenburgh,
+
+There is a plaque on the right of the sculpture which explains all about the battle.
+
+</p>
+
+<a href="https://www.google.nl/maps/place/Waalsdorpervlakte+Oorlogsmonument/@52.1157363,4.3341011,17z/data=!3m1!4b1!4m5!3m4!1s0x47c5b9d99fbec03f:0xd04e4bb52a21f62b!8m2!3d52.1157363!4d4.3362898" target = "_blank" class="button">Oorlogsmonument From Your Location</a>
+<br>
+
+
+<style>
+.parallax4 {
+
+    background-image: url("ae8d4a6b68e1593731e4639c03ba734c.jpg");
+
+    min-height: 600px; 
+
+    background-attachment: fixed;
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: cover;
+	    margin-left: 0px;
+}
+
+    
+    
+</style>
+
+<div class="parallax4"></div>
+
+<div style="height:1200px;background-color:white;font-size:36px">
+
+	<h3>
+		The Hague Resistance and Liberation Memorial
+	</h3>
+
+	<p class = "p2">
+		Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac turpis nibh. Pellentesque rhoncus ante purus, ut sagittis metus semper vitae. Ut quis nunc a mi auctor vestibulum a venenatis quam. Duis accumsan pellentesque dui, a vulputate tellus. Suspendisse feugiat euismod ipsum. Maecenas mauris augue, pellentesque a nunc ac, vestibulum sollicitudin ante. Nulla ornare scelerisque ligula, id egestas lacus posuere a.
+	</p>
+
+	<a href="https://www.google.nl/maps/place/Waalsdorpervlakte+Oorlogsmonument/@52.1157363,4.3341011,17z/data=!3m1!4b1!4m5!3m4!1s0x47c5b9d99fbec03f:0xd04e4bb52a21f62b!8m2!3d52.1157363!4d4.3362898" target = "_blank" class="button">Liberation Memorial From Your Location</a>
+<br>
+<br>
+
