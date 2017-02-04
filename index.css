@@ -73,11 +73,11 @@ li a {
 }
 
 li a:hover:not(.active) {
-    color: #d0d0d0;
+    color: #9a9797;
 }
 
 .active {
-    background-color: #4CAF50;
+    background-color: #9bab9c;
 }
 
 /* Fading animation */
