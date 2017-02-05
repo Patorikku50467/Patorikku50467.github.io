@@ -133,6 +133,15 @@ li a:hover:not(.active) {
 	font: Raleway-Regular;
 }
 
+a.button1 {
+	text-decoration: none;
+}
+
+a.button1:hover {
+	color: white;
+	background-color: black;
+	border-color: white !important;
+}
 
  
 /*Step 3: Link Styling*/
