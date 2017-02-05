@@ -98,7 +98,7 @@ li a:hover:not(.active) {
   to {opacity: 1}
 }
 
-/* On smaller screens, decrease text size */
+
 @media only screen and (max-width: 300px) {
   .text {font-size: 11px}
 }
@@ -117,6 +117,23 @@ li a:hover:not(.active) {
 	text-align: center;
 	font: Raleway-Regular;
 }
+
+.button1 {
+	
+	/*Step 2: Basic Button Styles*/
+	display: block;
+	height: 150px;
+	width: 400px;
+	background: white;
+	border: 2px solid rgba(33, 68, 72, 0.59);
+	
+	/*Step 3: Text Styles*/
+	color: black;
+	text-align: center;
+	font: Raleway-Regular;
+}
+
+
  
 /*Step 3: Link Styling*/
 a.button {
